@@ -23,7 +23,7 @@
   <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; padding: 15px;">
     <div align="center" style="font-size: 14px;">
       <div style="margin-bottom: 10px;">
-        <a href="https://www.notion.so/Study-Coding-1f2a85d99d658007bdbef2201af2085d" target="_blank">
+        <a href="https://www.notion.so/Meung-98-a91ecc27c41b4d8ab757e0e016e487a7" target="_blank">
           <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white" />
         </a>
         <a href="https://github.com/Meung-98" target="_blank">
