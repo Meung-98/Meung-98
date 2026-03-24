@@ -24,7 +24,7 @@
     <div align="center" style="font-size: 14px;">
       <div style="margin-bottom: 10px;">
         <a href="https://www.notion.so/Study-Coding-1f2a85d99d658007bdbef2201af2085d" target="_blank">
-          <img src="https://img.shields.io/badge/Notion-20C997?style=flat-square&logo=Notion&logoColor=white" />
+          <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white" />
         </a>
         <a href="https://github.com/Meung-98" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
